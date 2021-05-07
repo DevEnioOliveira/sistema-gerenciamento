@@ -1,12 +1,12 @@
 {
-    "users":[
-        {
-        "id": 1,
-        "name": "Giovani Gonçalves",
-        "email": "giovani@gmail.co,"
-    }, {
-        "id": 2,
-        "name": "Jéssica Gutierrez",
-        "email": "jéssicag@gmail.com"
-    }]
+  "users": [
+    {
+      "name": "Enio Oliveira",
+      "email": "eniooliveira.poa@gmail.com",
+      "endereco": "beco a,89",
+      "telefone": "51 991920382",
+      "undefined": "51 991920382",
+      "id": 1
+    }
+  ]
 }
